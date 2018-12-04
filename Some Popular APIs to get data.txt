@@ -1,0 +1,5 @@
+1.International space Station: Give position of setallite
+2.Whether Data API
+3.Wordnik : To get diferent APIs about word
+4.NewYork Times: To get different APIs using newtork times data (Like book review and article search etc.)
+5.GIPHY API
